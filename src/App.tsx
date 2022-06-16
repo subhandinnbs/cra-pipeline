@@ -17,9 +17,6 @@ const App: React.FC = () => (
     </Helmet>
     <Header>
       <Logo alt="Create React App - Logo" />
-      <p>
-        Edit <code>src/App.tsx</code> and save to reloads.
-      </p>
     </Header>
   </Wrapper>
 )
