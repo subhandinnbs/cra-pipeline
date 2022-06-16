@@ -20,7 +20,7 @@ const App: React.FC = () => (
       <p>
         Edit <code>src/App.tsx</code> and save to reload.
       </p>
-      <Link href="https://reactjs.org">Learn React</Link>
+      <Link href="https://reactjs.org">Learn React with Subhan</Link>
     </Header>
   </Wrapper>
 )
