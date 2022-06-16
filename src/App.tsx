@@ -18,9 +18,8 @@ const App: React.FC = () => (
     <Header>
       <Logo alt="Create React App - Logo" />
       <p>
-        Edit <code>src/App.tsx</code> and save to reload.
+        Edit <code>src/App.tsx</code> and save to reloads.
       </p>
-      <Link href="https://reactjs.org">Learn React with Subhan</Link>
     </Header>
   </Wrapper>
 )
